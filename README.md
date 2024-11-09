@@ -61,6 +61,11 @@ Here are some essential `rustc` and `cargo` commands to get you started:
   cargo new --vcs none {folder_name}
   ```
 
+- **To read dependencies documentations**:
+  ```bash
+  cargo doc --open
+  ```
+
 ## How to Use This Repository
 1. Clone this repository:
    ```bash
